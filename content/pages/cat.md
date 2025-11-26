@@ -6,3 +6,7 @@ Category: Artwork
 Here's some artwork
 
 ![A cat]({static}/images/cat.png)
+**A cat**
+
+![A dog]({static}/images/dog.jpg)
+**A dog**
