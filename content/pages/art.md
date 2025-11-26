@@ -5,3 +5,4 @@ Category: Artwork
 
 Ceramic
 stuff
+![A cat]({static}/images/cat.png)
