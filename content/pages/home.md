@@ -5,6 +5,6 @@ Category: Artwork
 
 
 
-![portrait]({static}/images/myportrait.jpg)
-alt="portrait" width="50%" height="50%">
+![portrait]({static}/images/myportrait.jpg) alt="portrait" width="50%" height="50%">
+
 Bee Snow
