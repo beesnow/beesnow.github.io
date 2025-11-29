@@ -4,7 +4,7 @@ Order: 10
 Category: Artwork
 
 Paintings
-![]({static}/images/Bigmepainting.jpg)
+![]({static}/images/BigmepaintingLR.jpg)
 **TMEye, 2025**
 
 ![]({static}/images/BigIris.jpg)
