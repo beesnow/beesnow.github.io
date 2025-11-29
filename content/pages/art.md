@@ -5,4 +5,4 @@ Category: Artwork
 
 Ceramic
 stuff
-![A cat]({static}/images/cat.png)
+![tvtray1.md]({static}/images/cat.png)
