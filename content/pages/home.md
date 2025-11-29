@@ -6,4 +6,5 @@ Category: Artwork
 
 
 ![portrait]({static}/images/myportrait.jpg)
+alt="Sample Image" width="50%" height="50%">
 Bee Snow
