@@ -10,3 +10,9 @@ Here's some artwork
 
 ![clock]({static}/images/clockside.jpg)
 **Clock, 2025**
+
+![bust]({static}/images/frontBbust.jpg)
+**Missing, 2025**
+
+![bust]({static}/images/misbustback.jpg)
+**Missing, 2025**
