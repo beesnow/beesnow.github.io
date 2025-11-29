@@ -4,6 +4,10 @@ Order: 10
 Category: Artwork
 
 
-Wood
-![tvtray]({static}/images/tvtray.png)
-Lover, 2025
+**Wood**
+![tvtray]({static}/images/tvtray.jpg)
+**Lover, 2025**
+
+
+![pins]({static}/images/clothespins.jpg)
+**Clothespins, 2025**
