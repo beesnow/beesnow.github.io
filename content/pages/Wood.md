@@ -6,4 +6,4 @@ Category: Artwork
 
 Wood
 ![tvtray]({static}/images/tvtray.png)
-Lover,2025
+Lover, 2025
