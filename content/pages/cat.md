@@ -5,7 +5,7 @@ Category: Artwork
 
 Here's some artwork
 
-![clock]({static}/images/clocktop.png)
+![clock]({static}/images/clocktop.jpg)
 **Clock, 2025**
 
 ![clock]({static}/images/clockside.jpg)
