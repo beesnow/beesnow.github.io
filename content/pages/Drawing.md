@@ -14,4 +14,4 @@ Category: Artwork
 **Green, 2024**
 
 ![Fun]({static}/images/JackLR.jpg)
-**Fun**
+**Fun, 2024**
