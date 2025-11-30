@@ -7,6 +7,6 @@ Paintings
 ![]({static}/images/BigmepaintingLR.jpg)
 **TMEye, 2025**
 
-![]({static}/images/BigIris.jpg)
+![]({static}/images/BigIrisTMILR.jpg)
 **TMI, 2025**
 
