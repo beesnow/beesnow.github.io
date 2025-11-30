@@ -5,5 +5,5 @@ Category: Artwork
 
 
 **Drawing**
-![]({static}/images/Grass.jpg)
+![]({static}/images/GrassLR.jpg)
 **The Grass is Greener on the Other Side...?**
