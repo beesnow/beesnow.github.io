@@ -6,11 +6,11 @@ Category: Artwork
 
 **Wood**
 ![tvtray]({static}/images/tvtray3RL.jpg)
-**Lover, 2025**
+**Lover, Pine, acrilic, pencil, & ink, 2025**
 
 
 ![pins]({static}/images/clothespinsLR.jpg)
-**Clothespins, 2025**
+**Clothespin, pine, mixmedia, 2025**
 
 ![bigstool]({static}/images/2bigstoolLR.jpg)
-**Big Stool, 2025**
+**Big Stool,Pine, 2025**
