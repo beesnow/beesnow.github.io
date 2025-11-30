@@ -5,9 +5,8 @@ Category: Artwork
 
 
 **Wood**
-![tvtray]({static}/images/tvtray3RL.jpg)
+![tvtray]({static}/images/tvtray3LR.jpg)
 **Lover, Pine, acrilic, pencil, & ink, 2025**
-
 
 ![pins]({static}/images/clothespinsLR.jpg)
 **Clothespin, pine, mixmedia, 2025**

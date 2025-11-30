@@ -7,15 +7,15 @@ Category: Artwork
 ![clock]({static}/images/Clock2LR.jpg)
 **Clock, Stoneware, TerraCotta, 2025**
 
-![bust]({static}/images/BbustMissing2.jpg)
+![bust]({static}/images/BeebustMissing2.jpg)
 **Missing, Earthenware,2025**
 
 ![BigEar]({static}/images/WhatLR.jpg)
 **What(Boundaries & Borders), Stoneware, 2025**
 
-![Bumptop]({static}/images/BumptopLR.jpg)
-**Bump, Stoneware, 2025**
+![Bumptop]({static}/images/BumpTopLR.jpg)
+**Bump, Stoneware, 2025 (top)**
 
-![Bumpfront]({static}/images/BumpfrontLR.jpg)
-**Bump, Stoneware, 2025**
+![Bumpfront]({static}/images/BumpFrontLR.jpg)
+**Bump, Stoneware, 2025 (front)**
 

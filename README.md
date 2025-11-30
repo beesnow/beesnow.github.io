@@ -4,7 +4,7 @@ This site was created by calling these commands:
 ```
 python -m pip install "pelican[markdown]"
 pelican-quickstart
-pelican content -s pelicanconf.py -t ~/pelican-themes/blue-penguin
+pelican content -s pelicanconf.py
 pelican --listen
 ```
 
