@@ -7,6 +7,8 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+print("DEBUG: WIUIE: This point reached")
+
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = "https://beesnow.art"
 RELATIVE_URLS = False
