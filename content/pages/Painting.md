@@ -21,6 +21,9 @@ Category: Artwork
 ![graffitiChaircloseupBlackLight]({static}/images/BLchaircloseupLR.jpg)
 **Relax, Acrilic & Mixmedia, 2024**
 
+![homematches]({static}/images/suitcasematchLR.jpg)
+**Home, Acrilic on found object,2024**
+
 ![homematches]({static}/images/matchesScaseLR.jpg)
 **Home, Acrilic on found object,2024**
 
