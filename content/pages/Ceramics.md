@@ -5,13 +5,13 @@ Category: Artwork
 
 
 ![clock]({static}/images/Clock2LR.jpg)
-**Clock, 2025**
+**Clock, Stoneware, TerraCotta, 2025**
 
 ![bust]({static}/images/BbustMissing2.jpg)
-**Missing, 2025**
+**Missing, Earthenware,2025**
 
 ![BigEar]({static}/images/WhatLR.jpg)
-**What(Boundaries & Borders)**
+**What(Boundaries & Borders), Stoneware, 2025**
 
 ![Bumptop]({static}/images/BumptopLR.jpg)
 **Bump, Stoneware, 2025**
