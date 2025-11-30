@@ -5,6 +5,6 @@ Category: Artwork
 
 
 
-![portrait]({static}/images/myportrait.jpg)
+![portrait]({static}/images/myportraitLR.jpg)
 
 Bee Snow
