@@ -25,7 +25,7 @@ Category: Artwork
 ![NewLifegrn]({static}/images/newbegininggrnLR.jpg)
 **New Life, graphite & crayon, 30" x 22", 2024**
 
-![Bluebegin]({static}/images/JackLR.jpg)
+![Bluebegin]({static}/images/BeginMomentBlueLR.jpg)
 **Begin the Moment, graphite & crayon, 30" x 22", 2024**
 
 ![notmystoryred]({static}/images/NotStoryRedLR.jpg)
