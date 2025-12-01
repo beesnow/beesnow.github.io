@@ -14,8 +14,8 @@ Category: Artwork
 **What(Boundaries & Borders), Stoneware, 2025**
 
 ![Bumptop]({static}/images/BumpTopLR.jpg)
-**Bump, Stoneware, 2025 (top)**
+**Bump, Stoneware, 13" x 17" x 21", 2025 (top)**
 
 ![Bumpfront]({static}/images/BumpFrontLR.jpg)
-**Bump, Stoneware, 2025 (front)**
+**Bump, Stoneware, 13" x 17" x 21", 2025 (front)**
 
