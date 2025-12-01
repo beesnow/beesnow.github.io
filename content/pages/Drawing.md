@@ -8,13 +8,13 @@ Category: Artwork
 **The Grass is Greener on the Other Side...?** graphite,acrylic & blacklight paint on board, 4' x 4', 2024
 
 ![Heart]({static}/images/AbbyLR.jpg)
-**Heart** graphite & acrylic on board, 4' x 4', 2024
+**Heart**, graphite & acrylic on board, 4' x 4', 2024
 
 ![Green]({static}/images/SamLR.jpg)
-**Green,** graphite, acrylic & blacklight paint on board, 4' x 4', 2024
+**Green**, graphite, acrylic & blacklight paint on board, 4' x 4', 2024
 
 ![Fun]({static}/images/JackLR.jpg)
-**Fun,** graphite & acrylic on board, 4' x 4', 2024
+**Fun**, graphite & acrylic on board, 4' x 4', 2024
 
 ![freedomyellow]({static}/images/ControlvsfreeyellowLR.jpg)
 **Freedom and Connection vs. Control**, graphite & crayon, 30" x 44', 2023
