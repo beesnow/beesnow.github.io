@@ -5,7 +5,7 @@ Category: Artwork
 
 
 ![Grass]({static}/images/GrassLR.jpg)
-**The Grass is Greener on the Other Side...?** graphite,acrylic & blacklight paint on board, 4' x 4', 2024
+**The Grass is Greener on the Other Side...?** graphite, acrylic & blacklight paint on board, 4' x 4', 2024
 
 ![Heart]({static}/images/AbbyLR.jpg)
 **Heart**, graphite & acrylic on board, 4' x 4', 2024
