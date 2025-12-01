@@ -4,10 +4,10 @@ Order: 10
 Category: Artwork
 
 ![BigMe]({static}/images/BigmepaintingLR.jpg)
-**TMEye, Acrilic on canvas, 4'x 11', 2025**
+**TMEye, Acrilic on canvas, 58"x 13', 2025**
 
 ![BigIris]({static}/images/BigIrisTMILR.jpg)
-**TMI, Acrilic on canvas, Stoneware, 4'x 13', 2025**
+**TMI, Acrilic on canvas, Stoneware, 58"x 13', 2025**
 
 ![graffitiChairfront]({static}/images/chairgraffitiLR.jpg)
 **Relax, Acrilic & Mixmedia, 38" x 24" x 26", 2024**
