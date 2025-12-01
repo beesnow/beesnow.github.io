@@ -15,3 +15,18 @@ Category: Artwork
 
 ![Fun]({static}/images/JackLR.jpg)
 **Fun, 4' x 4', 2024**
+
+![freedomyellow]({static}/images/ControlvsfreeyellowLR.jpg)
+**Freedom and Connection vs. Control, graphite & crayon, 30" x 44', 2023**
+
+![worthinspite]({static}/images/worthInspiteorangeLR.jpg)
+**Worth and Beauty In Spite of..., graphite & crayon, 30" x 44", 2024**
+
+![NewLifegrn]({static}/images/newbegininggrnLR.jpg)
+**New Life, graphite & crayon, 30" x 22", 2024**
+
+![Bluebegin]({static}/images/JackLR.jpg)
+**Begin the Moment, graphite & crayon, 30" x 22", 2024**
+
+![notmystoryred]({static}/images/NotStoryRedLR.jpg)
+**Not My Story, graphite & crayon, 22" x 30", 2024**
