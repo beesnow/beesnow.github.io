@@ -28,7 +28,7 @@ Category: Artwork
 **Home, Acrilic on found object, 22" x 26" x 7.5 ", 2024**
 
 ![hometop]({static}/images/topsuitcaseLR.jpg)
-**Home, Acrilic on found object, 2024**
+**Home, Acrilic on found object, 22" x 26" x 7.5", 2024**
 
 ![homegaffiti]({static}/images/BLhomesuitcaseLR.jpg)
-**Home, Acrilic on found object, 2024**
+**Home, Acrilic on found object, 22" x 26" x 7.5", 2024**
