@@ -19,7 +19,7 @@ Category: Artwork
 ![freedomyellow]({static}/images/ControlvsfreeyellowLR.jpg)
 **Freedom and Connection vs. Control, graphite & crayon, 30" x 44', 2023**
 
-![worthinspite]({static}/images/worthInspiteorangeLR.jpg)
+![worthinspiteorange]({static}/images/worthInspiteorangeLR.jpg)
 **Worth and Beauty In Spite of..., graphite & crayon, 30" x 44", 2024**
 
 ![NewLifegrn]({static}/images/newbegininggrnLR.jpg)
