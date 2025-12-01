@@ -5,13 +5,13 @@ Category: Artwork
 
 
 ![Grass]({static}/images/GrassLR.jpg)
-**The Grass is Greener on the Other Side...?**
+**The Grass is Greener on the Other Side...? 4' x 4', 2024**
 
 ![Heart]({static}/images/AbbyLR.jpg)
-**Heart, 2024**
+**Heart, 4' x 4', 2024**
 
 ![Green]({static}/images/SamLR.jpg)
-**Green, 2024**
+**Green, 4' x 4', 2024**
 
 ![Fun]({static}/images/JackLR.jpg)
-**Fun, 2024**
+**Fun, 4' x 4', 2024**
