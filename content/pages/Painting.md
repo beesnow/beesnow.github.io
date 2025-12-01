@@ -10,22 +10,22 @@ Category: Artwork
 **TMI, Acrilic on canvas, Stoneware, 4'x 13', 2025**
 
 ![graffitiChairfront]({static}/images/chairgraffitiLR.jpg)
-**Relax, Acrilic & Mixmedia, 2024**
+**Relax, Acrilic & Mixmedia, 38" x 24" x 26", 2024**
 
 ![graffitiChairback]({static}/images/chairEyeLR.jpg)
-**Relax, Acrilic & Mixmedia, 2024**
+**Relax, Acrilic & Mixmedia, 38" x 24" x 26", 2024**
 
 ![graffitiChaircloseup]({static}/images/ChaircloseupLR.jpg)
-**Relax, Acrilic & Mixmedia, 2024**
+**Relax, Acrilic & Mixmedia, 38" x 24" x 26", 2024**
 
 ![graffitiChaircloseupBlackLight]({static}/images/BLchaircloseupLR.jpg)
-**Relax, Acrilic & Mixmedia, 2024**
+**Relax, Acrilic & Mixmedia, 38" x 24" x 26", 2024**
 
 ![homematches]({static}/images/suitcasematchLR.jpg)
-**Home, Acrilic on found object,2024**
+**Home, Acrilic on found object, 22" x 26" x 7.5 ", 2024**
 
 ![homematches]({static}/images/matchesScaseLR.jpg)
-**Home, Acrilic on found object,2024**
+**Home, Acrilic on found object, 22" x 26" x 7.5 ", 2024**
 
 ![hometop]({static}/images/topsuitcaseLR.jpg)
 **Home, Acrilic on found object, 2024**
