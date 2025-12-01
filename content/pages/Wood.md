@@ -4,7 +4,6 @@ Order: 10
 Category: Artwork
 
 
-**Wood**
 ![tvtray]({static}/images/tvtray3LR.jpg)
 **Lover, Pine, acrilic, pencil, & ink, 2025**
 
