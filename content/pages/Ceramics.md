@@ -10,7 +10,7 @@ Category: Artwork
 ![bust]({static}/images/BeebustMissing2.jpg)
 **Missing, Earthenware, 22" x 15" x 13", 2025**
 
-![BigEar]({static}/images/WhatLR.jpg)
+![BigEar]({static}/images/ear2picsLR.jpg)
 **What (Boundaries & Borders), Stoneware, 6" x 29" x 20", 2025**
 
 ![Bumptop]({static}/images/BumpTopLR.jpg)
