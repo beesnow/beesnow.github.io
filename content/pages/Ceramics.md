@@ -5,17 +5,17 @@ Category: Artwork
 
 
 ![clock]({static}/images/Clock2LR.jpg)
-**Clock, Stoneware, TerraCotta, 5" x 17" x 17", 2025**
+**Clock**, Stoneware, TerraCotta, 5" x 17" x 17", 2025
 
 ![bust]({static}/images/BeebustMissing2.jpg)
-**Missing, Earthenware, 22" x 15" x 13", 2025**
+**Both Sides of Neuro-Divergency**, Earthenware, 22" x 15" x 13", 2025
 
 ![BigEar]({static}/images/ear2picsLR.jpg)
-**What (Boundaries & Borders), Stoneware, 6" x 29" x 20", 2025**
+**What (Boundaries & Borders)**, Stoneware, 6" x 29" x 20", 2025
 
 ![Bumptop]({static}/images/BumpTopLR.jpg)
-**Bump, Stoneware, 13" x 17" x 21", 2025 (top)**
+**Bump,** Stoneware, 13" x 17" x 21", 2025 (top)
 
 ![Bumpfront]({static}/images/BumpFrontLR.jpg)
-**Bump, Stoneware, 13" x 17" x 21", 2025 (front)**
+**Bump,** Stoneware, 13" x 17" x 21", 2025 (front)**
 
