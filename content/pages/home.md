@@ -13,4 +13,4 @@ Bee has taught summer and honors camps, private lessons, in different school set
 
 BFA Indiana State University 1998
 
-MFA Indiana State University 2026
+Future... MFA Indiana State University 2026
