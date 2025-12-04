@@ -12,4 +12,5 @@ Bee Snow is currently a graduate student and TA at Indiana State University, gra
 Bee has taught summer and honors camps, private lessons, in different school settings and at home when her kids were little. She creates art where ever she is. Brain storming counts.
 
 BFA Indiana State University 1998
+
 MFA Indiana State University 2026
